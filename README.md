@@ -3,5 +3,6 @@ Implementation of library matrix.h for processing numerical matrices in the C.
 
 To build the project run
 ```
+cd src
 make all
 ```
